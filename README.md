@@ -1,4 +1,4 @@
-# Artichoke Chat <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
+# Cappi Chat <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
 A simple green themed web chat made to learn Node.js and Network Programming<br>
 
 # Technologies 🧾
@@ -9,14 +9,11 @@ A simple green themed web chat made to learn Node.js and Network Programming<br>
 
 
 # Preview 🔍
-<img src="https://i.imgur.com/U26kp9W.jpg" width=1900> <br />
-<img src="https://i.imgur.com/NiK5u6R.jpg" width=1900> <br /> 
-<img src="https://i.imgur.com/QQvTaOj.jpg" width=1900> <br />
-<img src="https://i.imgur.com/hQNDXvF.jpg" width="300">
-<img src="https://i.imgur.com/Ynbd5kY.jpg" width="300"> 
-<img src="https://i.imgur.com/DHPIFt8.jpg" width="300">
-<img src="https://i.imgur.com/uFRPWsy.jpg" width="300"> <br/>
-<img src="https://i.imgur.com/J7le3tt.jpg">
+<img src="DemoImage/1.png" width=1900> <br />
+<img src="DemoImage/2.png" width=1900> <br /> 
+<img src="DemoImage/3.png" width=1900> <br />
+<img src="DemoImage/4.png" width="300">
+<img src="DemoImage/5.png" width="300"> <br/>
 
 # Quick Start 🚀
 ```git clone https://github.com/irevenko/artichoke-chat.git```<br>
