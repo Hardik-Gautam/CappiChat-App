@@ -30,7 +30,6 @@ A simple green themed web chat made to learn Node.js and Network Programming<br>
 * Web Sockets
 * HTTP/HTTPS
 * DOM manipulation, EventListeners, Forms
-* How to use CSS Framework (Bulma)
 * Simple media queries
 * npm basics
 * Gathering front-end and back-end together
