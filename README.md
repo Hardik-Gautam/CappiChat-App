@@ -1,4 +1,4 @@
-# Artichoke Chat <img scr="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
+# Artichoke Chat <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
 A simple green themed web chat made to learn Node.js and Network Programming<br>
 
 # Technologies 🧾
@@ -36,5 +36,3 @@ A simple green themed web chat made to learn Node.js and Network Programming<br>
 * npm basics
 * Gathering front-end and back-end together
 
-# License 📑 
-(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
