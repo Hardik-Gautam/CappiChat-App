@@ -1,4 +1,4 @@
-# Cappi Chat <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
+# CappiChat <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/344/external-chat-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
 A simple green themed web chat made to learn Node.js and Network Programming<br>
 
 # Technologies 🧾
